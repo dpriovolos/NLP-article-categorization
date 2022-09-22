@@ -1,0 +1,3 @@
+The data used can be found here: https://www.kaggle.com/code/hadasu92/cnn-articles-text-classifiction/data
+The data is used is the CNN_Articles_clean_2, which has all the CNN articles. The 1 was 1/10 of its size. 
+It has 37949 entries of 11 features, which are {Index, Author, Date published, Category, Section, Url, Headline, Description, Keywords, Second headline, Article text}
